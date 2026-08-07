@@ -10,15 +10,15 @@ Durante a disciplina, o Java será utilizado para consolidar conceitos de **Prog
 
 Para criar um ambiente inicial para programação em Java no Linux, execute no terminal:
 
-'''
+```
 sudo apt update && sudo apt install default-jdk 
-'''
+```
 
 para instalar o kit de desenvolvimento, verifique com java -version e javac -version, e crie uma pasta de projeto com 
 
-'''
+```
 mkdir meu-projeto && cd meu-projeto.
-'''
+``
 
 Antes de iniciar qualquer projeto, é importante verificar se o Java Development Kit (JDK) está instalado corretamente.
 
